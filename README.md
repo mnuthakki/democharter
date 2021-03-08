@@ -7,7 +7,7 @@ Tech Stack Used:
 2. Restful with Spring Boot
 3. H2 Database
 3. Lombok
-4. Spring JPA
+4. Spring Data JPA
 5. Swagger
 6. SQL
 
